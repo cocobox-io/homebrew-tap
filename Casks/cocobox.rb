@@ -1,6 +1,6 @@
 cask "cocobox" do
-  version "0.14.10"
-  sha256 "fa14bd18c1f185d3312ecfc3b3c0366be22b9eb21eaf5e1e344522c15357db57"
+  version "0.14.11"
+  sha256 "2f94b0b7aa3d8db566b27be011b3e58b2a35a3fe430c1c4ae3b7c039d969bd48"
 
   url "https://releases.cocobox.io/darwin-aarch64/Cocobox_#{version}_aarch64.dmg"
   name "Cocobox"
